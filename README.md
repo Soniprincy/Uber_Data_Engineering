@@ -31,3 +31,21 @@ More info about dataset can be found here:
 - Dimensions: datetime_dim, passenger_count_dim, trip_distance_dim, rate_code_dim, pickup_location_dim, dropoff_location_dim, payment_type_dim.
 
 <img width="1000" height="620" alt="Screenshot 2025-10-01 105514" src="https://github.com/user-attachments/assets/898e91f9-fe7f-42f4-85d7-19ebda56edab" />
+
+## Creating Storage Bucket in GCP 
+
+<img width="1230" height="208" alt="Screenshot 2025-10-01 113319" src="https://github.com/user-attachments/assets/740d1250-70d3-4356-b482-32e7673eef29" />
+
+## Virtual Machine Instance in GCP
+
+<img width="1562" height="209" alt="Screenshot 2025-10-01 112947" src="https://github.com/user-attachments/assets/fe76b550-3c21-452d-8134-c902bd9bb2d4" />
+
+## Pipeline Using Mage.ai
+
+- Data Loader
+- Data Transformer
+- Data Extractor
+
+<img width="1755" height="636" alt="Screenshot 2025-10-01 111710" src="https://github.com/user-attachments/assets/3b7356fb-3221-4323-9983-4d960ed56185" />
+
+
